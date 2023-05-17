@@ -1,60 +1,31 @@
-# Frontend Mentor - Easybank landing page solution
+# Frontend Mentor - Solução da página de destino do Easybank
 
-This is a solution to the [Easybank landing page challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/easybank-landing-page-WaUhkoDN). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+Esta é uma solução para o desafio da [página de destino do Easybank no Frontend Mentor](https://www.frontendmentor.io/challenges/easybank-landing-page-WaUhkoDN). Os desafios do Frontend Mentor ajudam você a melhorar suas habilidades de codificação construindo projetos realistas.
 
-## Table of contents
+## Índice
 
-  - [The challenge](#the-challenge)
+  - [O desafio](#o-desafio)
   - [Links](#links)
-  - [Built with](#built-with)
-  - [Continued development](#continued-development)
-  - [Author](#author)
+  - [Desenvolvido com](#desenvolvido-com)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
+**Observação: Delete esta nota e atualize o índice com base nas seções que você mantiver.**
 
+### O desafio
 
-### The challenge
+Os usuários devem ser capazes de:
 
-Users should be able to:
-
-- View the optimal layout for the site depending on their device's screen size
-- See hover states for all interactive elements on the page
+- Visualizar o layout ideal para o site, dependendo do tamanho da tela do dispositivo
+- Ver os estados de hover para todos os elementos interativos na página
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- URL do site ao vivo: [EasyBank](https://frontendmentor-easybank-blond.vercel.app/)
 
-## My process
+## Meu processo
 
-### Built with
+### Desenvolvido com
 
-- Semantic HTML5 markup
-- CSS custom properties
+- Marcação HTML5 semântica
+- Propriedades personalizadas de CSS
 - Flexbox
 - CSS Grid
-
-**Note: These are just examples. Delete this note and replace the list above with your own choices**
-
-
-
-If you want more help with writing markdown, we'd recommend checking out [The Markdown Guide](https://www.markdownguide.org/) to learn more.
-
-**Note: Delete this note and the content within this section and replace with your own learnings.**
-
-### Continued development
-
-I wish i could find project that will help me foucus mainly on nodejs, express, reactjs and vue in the future in order t improve my skill.
-
-**Note: Delete this note and the content within this section and replace with your own plans for continued development.**
-
-
-## Author
-
-- Website - [Syntactic Dev](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@DevSyntactic](https://www.twitter.com/devsyntactic)
-
-**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
-
-
