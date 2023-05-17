@@ -29,3 +29,6 @@ Os usuários devem ser capazes de:
 - Propriedades personalizadas de CSS
 - Flexbox
 - CSS Grid
+
+### Print Full Page
+![image](https://github.com/mikaelsouza-dev/frontendmentor-easybank/assets/99297849/276d5d09-86e5-40dc-9d52-cebd06384125)
